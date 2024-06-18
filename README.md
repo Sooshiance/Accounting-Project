@@ -56,3 +56,9 @@ The showHistory function simply iterates over the history `vector` and prints ea
 # main
 
 In here, we will add a sample web page to our search engine and than we will search for each one of them.
+
+### Concepts
+
+I learnt : templates, value and pointers and fetching object's attributes.
+
+All was exciting!!!
